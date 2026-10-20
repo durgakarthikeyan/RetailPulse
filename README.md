@@ -1,6 +1,9 @@
 # RetailPulse 📊
 ## Retail Intelligence Dashboard
 
+## Live Demo
+[Open RetailPulse Dashboard](https://retailpulse-aman.streamlit.app/)
+      
 RetailPulse is a retail analytics project developed using Python, Streamlit, Pandas, and Plotly. It helps analyze customer behavior, predict churn, forecast sales demand, and optimize inventory.
 
 ## 🎯 Project Objectives
